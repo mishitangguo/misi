@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="houtui-shi" unicode="&#58966;" d="M895.8 159.6c0 33.6 7.2 166.2-97.4 271.4-70.4 70.8-160.6 106.8-286.6 112.4V704L128 448l384-256V351.6c80-2.2 124.8-18.2 173.4-40C747.2 284 796 223.6 837 158.4l38.4-62.4H896c0 20.2-0.2 45.8-0.2 63.6z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>
