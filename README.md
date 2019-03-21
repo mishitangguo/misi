@@ -1,21 +1,32 @@
-# vue-novel
+# 迷失小说
 
-> A Vue.js project
+## 本地下载
 
-## Build Setup
+``` js
+//安装插件
+$ npm i
+//运行项目
+$ npm run dev
+//在浏览器打开项目
+http://localhost:8080
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## 项目描述
+
+小说阅读大全网络文学阅读追更神器 
+
+小说搜索，详情阅读
+
+
+
+![1553153310371](G:\h5zws\wangyiyun\vue-novel\src\assets\img\1553153310371.gif)
+
+
+
+## 职责描述
+
+1使用 vue全家桶开发
+
+2使用追书神器api获取小说数据
+
