@@ -20,7 +20,7 @@ http://localhost:8080
 
 
 
-![1553153310371](G:\h5zws\wangyiyun\vue-novel\src\assets\img\1553153310371.gif)
+![1553153310371](https://github.com/mishitangguo/misi/tree/master/src/assets/img/1553153310371.gif)
 
 
 
